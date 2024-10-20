@@ -15,7 +15,7 @@ This project focuses on automated testing of various API endpoints including use
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/api-testing-project.git
+   git clone https://github.com/BishoyNader/Digitinary.git
 
 2. Navigate to the project directory
 
